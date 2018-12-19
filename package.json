@@ -1,0 +1,11 @@
+{
+  "name": "webrtcsupported",
+  "version": "1.0.0",
+  "description": "Detect if WebRTC is supported",
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "sideEffects": false,
+  "keywords": ["webrtc", "supported"],
+  "author": "Jason Brown (browniefed)",
+  "license": "MIT"
+}
